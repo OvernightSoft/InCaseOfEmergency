@@ -1,0 +1,1 @@
+- [The logic of CanShrink: how to deal with hidden and empty fields, and their labels](CanShrinkLogic)
