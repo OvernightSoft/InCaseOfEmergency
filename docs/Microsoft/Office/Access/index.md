@@ -1,1 +1,1 @@
-- [The logic of CanShrink: how to deal with hidden and empty fields, and their labels](CanShrinkLogic)
+- [How CanShrink works in Microsoft Access, and how to handle controls that don’t shrink](CanShrinkLogic)
