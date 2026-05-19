@@ -1,0 +1,1 @@
+- [Avoid RDP authorization requests on Win11 (Apr '26)](Win11RDP)
