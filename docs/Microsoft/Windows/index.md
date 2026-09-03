@@ -1,1 +1,2 @@
 - [Avoid Remote Apps authorization requests on Win11 (Apr '26)](Win11RDP)
+- [Useful commands for a PC having problems at boot](BootProblemsUsefulCommands)
