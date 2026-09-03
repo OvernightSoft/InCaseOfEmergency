@@ -1,3 +1,5 @@
+# Avoid Remote Apps authorization requests on Win11 (Apr '26)
+
 With April '26 Windows Update, Win11 users received a new RDP client which shows new security warnings when using Remote Apps. 
 
 These warnings cannot be easily dismissed as in the past, and appear each time a Remote App is started. Useful the first time, boring the others.
